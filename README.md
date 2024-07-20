@@ -1,3 +1,3 @@
 Run docker compose with this command
 
-$ docker-compose -f docker-compose.monitoring.yml up -d
+$ docker-compose -f docker-compose.yml up -d
